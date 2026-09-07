@@ -1,0 +1,10 @@
+{
+  "name": "sergio-requena-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio estático de Sergio Requena, Unity / Gameplay Developer",
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check script.js"
+  }
+}
